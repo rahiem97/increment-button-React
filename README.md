@@ -6,7 +6,7 @@
 
 This is the bulk of the functionality and was used to understand functional and class components.
 
-RUN INSTRUCTIONS
+RUN INSTRUCTIONS (probably vague to a novice, im sorry )
 1. clone 
 2. $ cd [Project folder]
 3. npm install
